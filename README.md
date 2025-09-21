@@ -59,3 +59,6 @@ Based on the analysis, the core recommendations for the business would be:
 -   `Sales_Analysis.pbix` - The main Power BI report file.
 -   `README.md` - This file.
 ## Screenshots and demos: 
+<img width="1173" height="705" alt="Screenshot 2025-09-21 102036" src="https://github.com/user-attachments/assets/31006679-f6dd-414b-a2b3-35a963521cce" />
+<img width="1149" height="668" alt="Screenshot 2025-09-21 102057" src="https://github.com/user-attachments/assets/a88d8a09-a741-46c3-b8d3-584b26ebd813" />
+<img width="1100" height="607" alt="Screenshot 2025-09-21 102006" src="https://github.com/user-attachments/assets/ba497950-f77d-4c7f-80f4-14250faf1839" />
